@@ -32,27 +32,6 @@ p {
     text-align: justify;
 }
 
-#Nav li{
-    display: inline;
-    list-style-type: none;
-    text-align: center;
-    width: 16.57%;
-    color: dodgerblue;
-}
-
-#Nav {
-    width: 100%;
-}
-
-#NavDiv {
-    width : 100%;
-    background-color: black;
-}
-
-#TopNav {
-    width: 100%;
-}
-
 .Head {
     text-align: center;
     margin-top: 10%;

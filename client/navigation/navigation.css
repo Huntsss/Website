@@ -1,0 +1,20 @@
+#Nav li{
+    display: inline;
+    list-style-type: none;
+    text-align: center;
+    width: 19%;
+    color: dodgerblue;
+}
+
+#Nav {
+    width: 100%;
+}
+
+#NavDiv {
+    width : 100%;
+    background-color: black;
+}
+
+#TopNav {
+    width: 100%;
+}
